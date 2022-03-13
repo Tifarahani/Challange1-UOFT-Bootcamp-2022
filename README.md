@@ -18,16 +18,13 @@ As Louise’s play Fever came close to its fundraising goal we want to demonstra
 
 
 ## 3.Results
-* Two conclusions are made about the Theater Outcomes by Launch Date
-1. First Conclusion
+1. Two conclusions are made about the Theater Outcomes by Launch Date
+ 
    - Between the months of the year, May had the highest rate of succession for Theatre with total of 111 successful counts.
- --
-
-2. Second Conclusion
    - In December rate of succession and Failure were almost the same.
-* One conclusion is made about the Outcomes based on Goals
+2. One conclusion is made about the Outcomes based on Goals
 - AS the Goal amount increased rate of succession increase and failure decreased (There was a direct relation between increase of goal amount and succsess rate) and in "Play" subcategory rate of cancellation is zero.
 
-* There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
+3.  There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
 We could also use to check the outliers and validate out database.
 
