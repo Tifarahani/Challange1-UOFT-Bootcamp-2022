@@ -19,6 +19,8 @@ As Louise’s play Fever came close to its fundraising goal we want to demonstra
 
 ## 3.Results
 * Two conclusions are made about the Theater Outcomes by Launch Date
+* -1
+  -2
 * One conclusion is made about the Outcomes based on Goals
 * There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
 
