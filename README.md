@@ -7,7 +7,7 @@ As Louise’s play Fever came close to its fundraising goal we want to demonstra
 - These are the two charts we came across. 
 -
 ![Theater_Outcomes_vs_Launch](https://github.com/Tifarahani/UofT-Bootcamp/blob/main/Resources/Theater_Outcomes_vs_Launch.png.png)
-![Outcomes_vs_Goals] https://github.com/Tifarahani/UofT-Bootcamp/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals] (https://github.com/Tifarahani/UofT-Bootcamp/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ---
 - The Challange of calculating the percentage if the result is zero was wone of the challanges that I faced. I used IFERROR command to solve this proplem.Also extracting subcategory of "Play" seemed to be a challange at first but knowing there needs to be two time filtering was a good way to get the result needed.
