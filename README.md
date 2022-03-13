@@ -8,9 +8,9 @@
 
 
 
-1 ## Overview of Project
+1# Overview of Project
 
-2 ## Analysis and Challenges
+2# Analysis and Challenges
 
 ![Theater_Outcomes_vs_Launch](https://github.com/Tifarahani/UofT-Bootcamp/blob/main/Resources/Theater_Outcomes_vs_Launch.png.png)
 ---
