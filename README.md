@@ -5,4 +5,4 @@
 * Firstly
 * Secondly
 * Thirdly
-![Theater_Outcomes_vs_Launch](https://github.com/Tifarahani/UofT-Bootcamp/tree/main/Resources.Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](C:\Users\tifar\OneDrive\Desktop\Data_analytics_bootcamp_2022\Challange 1\Resources/to/Theater_Outcomes_vs_Launch.png)
