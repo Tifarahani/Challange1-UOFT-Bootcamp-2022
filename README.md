@@ -3,5 +3,5 @@
 ## Analysis
 ### Result
 * Firstly
-* Second
-*Third
+* Secondly
+* Thirdly
