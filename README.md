@@ -25,7 +25,7 @@ As Louise’s play Fever came close to its fundraising goal we want to demonstra
    - AS the goal amount increased rate of succession increase and failure decreased (There was a direct relation between increase of goal amount and succsess rate) and in "Play" subcategory rate of cancellation is zero.
 
 3. limitations of the dataset, and recommandation  for additional tables or graphs
--Limitations:The relational data model doesn't fit in with every domain
--Recommendation: We could also use quartes,central tendency for plays and "Histogram"chart to check the outliers and validate out database.
+- Limitations:The relational data model doesn't fit in with every domain
+- Recommendation: We could also use quartes,central tendency for plays and "Histogram"chart to check the outliers and validate out database.
 
 
