@@ -23,7 +23,7 @@ As Louise’s play Fever came close to its fundraising goal we want to demonstra
    - Between the months of the year, May had the highest rate of succession for Theatre with total of 111 successful counts.
    - In December rate of succession and Failure were almost the same.
 2. One conclusion is made about the Outcomes based on Goals
-- AS the Goal amount increased rate of succession increase and failure decreased (There was a direct relation between increase of goal amount and succsess rate) and in "Play" subcategory rate of cancellation is zero.
+   - AS the Goal amount increased rate of succession increase and failure decreased (There was a direct relation between increase of goal amount and succsess rate) and in "Play" subcategory rate of cancellation is zero.
 
 3.  There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs
 We could also use to check the outliers and validate out database.
